@@ -1,1 +1,1 @@
-# data-sciene
+# Stock market prediction using LSTM
