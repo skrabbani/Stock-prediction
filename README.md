@@ -1,4 +1,4 @@
-# data-sciene
+# Stock prediction
 in this note book i did a prediction of a infyosis stock market
 
 i take the two years of data from 24-06-2018 to 22-06-2020 
